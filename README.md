@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="http://www.linkedin.com/in/swastikashukla25">LinkedIn</a> ·
-  <a href="[YOUR_LEETCODE_UR](https://leetcode.com/u/SwastikaShukla/)L">LeetCode</a> ·
-  <a href="[YOUR_GITHUB_UR](https://github.com/Swastika-shukla)L">GitHub</a>
+  <a href="https://leetcode.com/u/SwastikaShukla/">LeetCode</a> ·
+  <a href="https://github.com/Swastika-shukla">GitHub</a>
 </p>
