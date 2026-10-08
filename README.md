@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Swastika Shukla 👋</h1>
 
-<!--
-**Swastika-shukla/Swastika-shukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Developer · Full Stack · Applied AI</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building practical software with modern AI technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="http://www.linkedin.com/in/swastikashukla25">LinkedIn</a> ·
+  <a href="[YOUR_LEETCODE_UR](https://leetcode.com/u/SwastikaShukla/)L">LeetCode</a> ·
+  <a href="[YOUR_GITHUB_UR](https://github.com/Swastika-shukla)L">GitHub</a>
+</p>
